@@ -5,7 +5,7 @@ part of the <b>SDAIA Bootcamp for Data Management</b>, I was tasked with a manda
 
 <h3>The project consisted of four key deliverables: </h3>
 
-<b>* a visually intuitive Data Sharing Framework map</b>.
+<b>* a visually Data Sharing Framework map</b>.
 
 <b>* a comprehensive Policy and Procedures document</b>.
 
